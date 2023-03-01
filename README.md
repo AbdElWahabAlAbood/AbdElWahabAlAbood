@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abdgem96
-- 👀 I’m interested in Data Science, Machine Learning, and Deep Learning.
-- 🌱 I’m currently learning PL/SQL.
-- 💞️ I’m looking to collaborate on Data Science, Machine Learning, and Deep Learning.
+- 👋 Hi, I’m Abd El-Wahab Al-Abood
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning.
 - 📫 How to reach me via email: (abd.alaboodgem96@outlook.com)
 
 <!---
